@@ -22,7 +22,7 @@
 
 <h2 align="left">Some Project / Assignment / Report Writing / Test Case. </h2>
 
-<table style="width:100% ; border: 1px solid black">
+<table style="width:100% ; ">
     <tr>
       <th>Test Case Name </th>
       <th>Project Name</th>
