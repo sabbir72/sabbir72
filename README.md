@@ -1,5 +1,4 @@
 
-
 <h2 align="center">Assalamualaikum .Hi,I'm Sabbir Ahamed</h2>
 
 <h4 style="font-weight: 400;" align="center">
@@ -22,21 +21,21 @@
 
 <h2 align="left">Some Project / Assignment / Report Writing / Test Case. </h2>
 
-<table style="width:100% ; ">
+<table style="width:100% ;">
     <tr>
-      <th>Test Case Name </th>
-      <th>Project Name</th>
-      <th>View Link</th>
+      <th align="left">Test Case Name </th>
+      <th align="left">Project Name</th>
+      <th align="left">View Link</th>
     </tr>
     <tr>
-      <td><h4 style="margin-bottom: 0px;">Test Case Writing</h4></td>
+      <td>Test Case Writing</td>
       <td>Lenskart.com</td>
       <td><a href="https://docs.google.com/spreadsheets/d/1YVVvVOz95c184sh71up-rRXkdhaOjQbZkgbs2JKr_7M/edit#gid=0"> Web base link</a>
     </td>
     </tr>
 
     <tr>
-      <td><h4 style="margin-bottom: 0px;">Test Case Report</h4></td>
+      <td>Test Case Report</td>
       <td>Caldal.com</td>
       <td><a href="https://drive.google.com/file/d/1JCI3K0ZohdHrlXguzScVyYRBISCnxQct/view">link</a></td>
     </tr>
