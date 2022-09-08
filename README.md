@@ -1,19 +1,91 @@
-<h1 align="center">Hi 👋, I'm Sabbir Ahamed</h1>
-<h3 align="center">I'm a Junior Quality assurance Engineer. Manual Testing | API Testing | Agile | JIRA | jMeter</h3>
+<style>
+    table, th, td {
+      border:1px solid black;
+    }
+    </style>
+<h2 align="center">Assalamualaikum .Hi,I'm Sabbir Ahamed</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbir72&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir72" /> </p>
+<h4 style="font-weight: 400;" align="center">
+   I 'm  a junior quality assurance engineer. <br> Manual Testing | API Testing | Agile | JIRA | jMeter | Postman .
+   <br>
+   
+<h2 style="margin-bottom: 0px;">Software testing Field:</h2>
 
-- 🔭 I’m currently working on **Performance Testing ,Load , Stress**
+  <h4 style="margin-bottom: 0px;">Manual Testing:</h4> Analyzing requirements, Test planning, reviewing test cases and writing, evaluating tests and executing, generating test reports,<br> root cause analysis and bug reporting using test management tools. <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sabbir-ahamed72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabbir-ahamed72" height="30" width="40" /></a>
-<a href="https://fb.com/md: sabbir ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md: sabbir ahamed" height="30" width="40" /></a>
-</p>
+<h4 style="margin-bottom: 0px;">Performance Testing Tool:</h4> JMeter, BlazeMeter <br>
+<h4 style="margin-bottom: 0px;">API Testing Tool:</h4> Postman <br>
+<h4 style="margin-bottom: 0px;">Agile Methodology and Project Management Tool:</h4> Jira <br>
+<h4 style="margin-bottom: 0px;">Security Testing Tool:</h4> Nmap <br>
+<h4 style="margin-bottom: 0px;">Concepts:</h4> STLC, SDLC,OOP <br>
+<h4 style="margin-bottom: 0px;">Programming Language:</h4> JAVA <br>
+<h4 style="margin-bottom: 0px;">Database:</h4> MySQL <br>
+<h4 style="margin-bottom: 0px;">Source and Version Control: </h4>GitHub/Git<br>
+</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="left">Some Project / Assignment / Report Writing / Test Case. </h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabbir72&show_icons=true&locale=en&layout=compact" alt="sabbir72" /></p>
+<table style="width:100%">
+    <tr>
+      <th>Test Case Name </th>
+      <th>Project Name</th>
+      <th>View Link</th>
+    </tr>
+    <tr>
+      <td><h4 style="margin-bottom: 0px;">Test Case Writing</h4></td>
+      <td>Lenskart.com</td>
+      <td><a href="https://docs.google.com/spreadsheets/d/1YVVvVOz95c184sh71up-rRXkdhaOjQbZkgbs2JKr_7M/edit#gid=0"> Web base link</a>
+    </td>
+      
+    </tr>
+    <tr>
+      <td><h4 style="margin-bottom: 0px;">Test Case Report</h4></td>
+      <td>Caldal.com</td>
+      <td><a href="https://drive.google.com/file/d/1JCI3K0ZohdHrlXguzScVyYRBISCnxQct/view">link</a></td>
+    </tr>
+    
+  </table>
+  
+  <h4 align="left">Connect with me:</h4>
+  <p align="left">
+    <a href="https://twitter.com/mdsabbi46847958" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        alt="mdsabbi46847958"
+        height="25"
+        width="25"
+    /></a>
+    <a
+      href="https://linkedin.com/in/www.linkedin.com/in/sabbir-ahamed72"
+      target="blank"
+      ><img
+        align="center" width="50px";
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="www.linkedin.com/in/sabbir-ahamed72"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://fb.com/https://www.facebook.com/sabbirahamed72"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+        alt="https://www.facebook.com/sabbirahamed72"
+        height="30"
+        width="40"
+    /></a>
+    <a
+      href="https://www.youtube.com/c/https://youtu.be/mh07hamvjt8"
+      target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+        alt="https://youtu.be/mh07hamvjt8"
+        height="30"
+        width="40"
+    /></a>
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbir72&show_icons=true&locale=en" alt="sabbir72" /></p>
+
