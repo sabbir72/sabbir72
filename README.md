@@ -4,7 +4,7 @@
 <h4 style="font-weight: 400;" align="center">
    I 'm  a junior quality assurance engineer. <br> Manual Testing | API Testing | Agile | JIRA | jMeter | Postman .
    <br>
-   
+   <img width="50%" src="https://thumbs.dreamstime.com/b/inscription-software-testing-virtual-display-business-modern-technology-internet-networking-concept-240034079.jpg" alt="SQA">
 <h2 style="margin-bottom: 0px;">📌Software testing Field:</h2>
 
   <h4 style="margin-bottom: 0px;">➡️Manual Testing:</h4> Analyzing requirements, Test planning, reviewing test cases and writing, evaluating tests and executing, generating test reports,<br> root cause analysis and bug reporting using test management tools. <br>
