@@ -1,8 +1,4 @@
-<style>
-    table, th, td {
-      border:1px solid black;
-    }
-    </style>
+
 <h2 align="center">Assalamualaikum .Hi,I'm Sabbir Ahamed</h2>
 
 <h4 style="font-weight: 400;" align="center">
@@ -24,8 +20,12 @@
 </h4>
 
 <h2 align="left">Some Project / Assignment / Report Writing / Test Case. </h2>
-
-<table style="width:100%">
+<style>
+    table, th, td {
+      border:1px solid black;
+    }
+    </style>
+<table style="width:100% ; border: 1px solid black">
     <tr>
       <th>Test Case Name </th>
       <th>Project Name</th>
@@ -37,7 +37,7 @@
       <td><a href="https://docs.google.com/spreadsheets/d/1YVVvVOz95c184sh71up-rRXkdhaOjQbZkgbs2JKr_7M/edit#gid=0"> Web base link</a>
     </td>
     </tr>
-    
+
     <tr>
       <td><h4 style="margin-bottom: 0px;">Test Case Report</h4></td>
       <td>Caldal.com</td>
