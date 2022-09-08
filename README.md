@@ -1,22 +1,22 @@
 
-<h2 align="center">Assalamualaikum .Hi,👋I'm Sabbir Ahamed</h2>
+<h2 align="center">Assalamualaikum .Hi,I'm Sabbir Ahamed</h2>
 
 <h4 style="font-weight: 400;" align="center">
    I 'm  a junior quality assurance engineer. <br> Manual Testing | API Testing | Agile | JIRA | jMeter | Postman .
    <br>
    
-<h2 style="margin-bottom: 0px;">Software testing Field:</h2>
+<h2 style="margin-bottom: 0px;">📌Software testing Field:</h2>
 
-  <h4 style="margin-bottom: 0px;">Manual Testing:</h4> Analyzing requirements, Test planning, reviewing test cases and writing, evaluating tests and executing, generating test reports,<br> root cause analysis and bug reporting using test management tools. <br>
+  <h4 style="margin-bottom: 0px;">➡️Manual Testing:</h4> Analyzing requirements, Test planning, reviewing test cases and writing, evaluating tests and executing, generating test reports,<br> root cause analysis and bug reporting using test management tools. <br>
 
-<h4 style="margin-bottom: 0px;">Performance Testing Tool:</h4> JMeter, BlazeMeter <br>
-<h4 style="margin-bottom: 0px;">API Testing Tool:</h4> Postman <br>
-<h4 style="margin-bottom: 0px;">Agile Methodology and Project Management Tool:</h4> Jira <br>
-<h4 style="margin-bottom: 0px;">Security Testing Tool:</h4> Nmap <br>
-<h4 style="margin-bottom: 0px;">Concepts:</h4> STLC, SDLC,OOP <br>
-<h4 style="margin-bottom: 0px;">Programming Language:</h4> JAVA <br>
-<h4 style="margin-bottom: 0px;">Database:</h4> MySQL <br>
-<h4 style="margin-bottom: 0px;">Source and Version Control: </h4>GitHub/Git<br>
+<h4 style="margin-bottom: 0px;">➡️Performance Testing Tool:</h4> JMeter, BlazeMeter <br>
+<h4 style="margin-bottom: 0px;">➡️API Testing Tool:</h4> Postman <br>
+<h4 style="margin-bottom: 0px;">➡️Agile Methodology and Project Management Tool:</h4> Jira <br>
+<h4 style="margin-bottom: 0px;">➡️Security Testing Tool:</h4> Nmap <br>
+<h4 style="margin-bottom: 0px;">➡️Concepts:</h4> STLC, SDLC,OOP <br>
+<h4 style="margin-bottom: 0px;">➡️Programming Language:</h4> JAVA <br>
+<h4 style="margin-bottom: 0px;">➡️Database:</h4> MySQL <br>
+<h4 style="margin-bottom: 0px;">➡️Source and Version Control: </h4>GitHub/Git<br>
 </h4>
 
 <h2 align="left">Some Project / Assignment / Report Writing / Test Case. </h2>
