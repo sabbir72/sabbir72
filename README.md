@@ -1,4 +1,5 @@
 
+
 <h2 align="center">Assalamualaikum .Hi,I'm Sabbir Ahamed</h2>
 
 <h4 style="font-weight: 400;" align="center">
@@ -20,11 +21,7 @@
 </h4>
 
 <h2 align="left">Some Project / Assignment / Report Writing / Test Case. </h2>
-<style>
-    table, th, td {
-      border:1px solid black;
-    }
-    </style>
+
 <table style="width:100% ; border: 1px solid black">
     <tr>
       <th>Test Case Name </th>
