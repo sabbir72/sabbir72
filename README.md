@@ -1,19 +1,19 @@
 # 💻 SQA Engineer Portfolio  
 
-Hi! 👋 I’m [Your Name], an enthusiastic **Entry-Level Software Quality Assurance (SQA) Engineer** passionate about ensuring software quality through meticulous testing and innovative approaches. My goal is to deliver reliable, user-friendly software by combining automation, manual testing, and continuous learning.  
+Hi! 👋 I’m Sabbi ahamed, an enthusiastic **Entry-Level Software Quality Assurance (SQA) Engineer** passionate about ensuring software quality through meticulous testing and innovative approaches. My goal is to deliver reliable, user-friendly software by combining automation, manual testing, and continuous learning.  
 
 ---
 
 ## 🚀 About Me  
-- 🎓 **Education:** Bachelor’s in [Your Degree], [Your University]  
-- 🛠️ **Skills:**  
-  - Test Automation: Selenium, Cypress, Postman  
-  - Manual Testing: Functional, Regression, and Usability Testing  
-  - Tools: Jira, TestRail, Git, Jenkins  
-  - Programming Languages: Python, Java, SQL  
+- 🎓 **Education:** Bachelor’s in Cse, Daffodil International University.  
+- 🛠️ **Skills:**   
+  - Manual Testing: Functional, Regression, and Usability Testing
+  - Test Automation: Selenium, Jmeter, Postman 
+  - Tools: Jira, Jmeter,Postman, Git, Jenkins  
+  - Programming Languages: Java, SQL Basic  
   - Frameworks: TestNG, JUnit  
 - 🌱 **Currently Learning:** API Testing with Postman and CI/CD for QA workflows  
-- 💡 **Interest Areas:** Test Automation, Performance Testing, and Agile Methodologies  
+- 💡 **Interest Areas:** Manual Testing ,Test Analysis, Test Automation, Performance Testing, and Agile Methodologies  
 
 ---
 
