@@ -65,7 +65,7 @@ Hi! 👋 I’m Sabbi ahamed, an enthusiastic **Entry-Level Software Quality Assu
 ---
 
 ## 📫 Contact Me  
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** [https://www.linkedin.com/in/sabbir-ahamed72/]  
 - **Email:** [Your Email]  
 - **GitHub:** [Your GitHub Profile]  
 
