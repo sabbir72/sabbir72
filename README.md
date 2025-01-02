@@ -58,9 +58,7 @@ Hi! 👋 I’m Sabbi ahamed, an enthusiastic **Entry-Level Software Quality Assu
 ---
 
 ## 📂 Certifications  
-- **ISTQB Certified Tester – Foundation Level**  
-- **Postman API Testing**  
-- **Selenium WebDriver with Java – Automation Testing**  
+
 
 ---
 
