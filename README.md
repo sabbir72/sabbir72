@@ -18,7 +18,7 @@ Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional w
 
 - 🔍 Passionate about **ensuring software quality** through both manual and automation testing
 - 🔧 Skilled in **Selenium, Postman, JMeter, Java, Appium**
-- 📊 Familiar with tools like **Jira, Git, MySQL, IntelliJ, Eclipse**
+- 📊 Familiar with tools like **Jira, Git, MySQL, IntelliJ, Eclipse, Blazmeter cypress **
 - 🧪 Exploring advanced QA techniques and test automation frameworks
 - 💼 Currently working at **Altersense Ltd. (Impress Group)** as a **Data Annotator**
 
@@ -42,8 +42,8 @@ Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional w
 
 ---
 
-### 🧪 QA Projects Showcase
-
+### 🧪 QA Projects Testcase
+- [🔗 TestCase And Report Summary.  BRD](https://github.com/sabbir72/Test_case-practice-project-01.git)    
 #### 🔍 API Testing
 - [🔗 API Chaining (Postman)](https://github.com/sabbir72/-APi-Chaining-runtime-connection.git)  
 - [💬 REST API Tests](https://github.com/sabbir72/RESTAPI_test.git)  
