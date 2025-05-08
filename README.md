@@ -46,8 +46,6 @@ Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional w
 - [🔗 TestCase And Report Summary.  BRD](https://github.com/sabbir72/Test_case-practice-project-01.git)    
 #### 🔍 API Testing
 - [🔗 RESTful API Test (Postman)](https://github.com/sabbir72/ApiLearnwith_csv_env_collection.git)  
-- [💬 REST API Tests](https://github.com/sabbir72/RESTAPI_test.git)  
-- [📨 Bulk SMS Load Testing](https://github.com/sabbir72/BULKSMS_LOAD_TEST.git)  
 
 #### 🖥️ Web Automation (Selenium)
 - [🧾 Basic Single Page Test](https://github.com/sabbir72/Product_automation_basic_singlepage.git)  
