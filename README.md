@@ -8,6 +8,11 @@
 </p>
 
 ---
+## 🎯 **Career Objective**
+Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional with hands-on experience in manual and automation testing. Passionate about delivering high-quality software through structured testing methodologies and continuous improvement. Seeking an opportunity to contribute to a dynamic QA team.
+
+---
+---
 
 ### 🧑‍💻 About Me
 
