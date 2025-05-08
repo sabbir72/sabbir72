@@ -1,102 +1,97 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi,+I'm+Sabbir+Ahamed;🚀+QA+Engineer+|+Automation+Tester;📚+Continuous+Learner+|+Bug+Hunter;&center=true&width=500&height=50">
-</p>
-
-<h1 align="center">Software Quality Assurance Engineer | Automation & API Testing Specialist</h1>
+<h1 align="center">Hi 👋, I'm Sabbir Ahamed</h1>
+<h3 align="center">🚀 Software Quality Assurance Engineer | Automation & API Testing Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:sabbircse72@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sabbir-ahamed72"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sabbir72"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:sabbircse72@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sabbir-ahamed72"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sabbir72"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
+## 🎯 **Career Objective**
+Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional with hands-on experience in manual and automation testing. Passionate about delivering high-quality software through structured testing methodologies and continuous improvement. Seeking an opportunity to contribute to a dynamic QA team.
 
-## 🚀 About Me
+---
+---
 
-💻 QA Engineer with **2+ years experience** in:
-- 🧪 **Automation Testing** (Selenium, Appium)
-- 🔍 **API Testing** (Postman, REST Assured)
-- ⚡ **Performance Testing** (JMeter, BlazeMeter)
-- 🏗️ **CI/CD Pipelines** (Jenkins, GitHub Actions)
+### 🧑‍💻 About Me
 
-I love building **robust test frameworks** and **catching bugs before customers do.**
+- 🔍 Passionate about **ensuring software quality** through both manual and automation testing
+- 🔧 Skilled in **Selenium, Postman, JMeter, Java, Appium**
+- 📊 Familiar with tools like **Jira, Git, MySQL, IntelliJ, Eclipse, Blazmeter cypress **
+- 🧪 Exploring advanced QA techniques and test automation frameworks
+- 💼 Currently working at **Altersense Ltd. (Impress Group)** as a **Data Annotator**
 
 ---
 
-## 🧰 Tech Stack
+### 📚 Education
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- 🎓 **BSc in CSE** - Daffodil International University  
+  CGPA: 3.19/4.00  
+- 🧪 HSC - Milestone College | GPA: 4.92  
+- 🔬 SSC - Noyagaon M A Mojid Miah High School | GPA: 5.00  
+
+---
+
+### 💼 Experience
+
+- **🛠️ Altersense Ltd.**  
+  *Data Annotator* – Feb 2024 to Present  
+- **🧠 Quantigo AI**  
+  *Project Delivery Associate* – Jul 2022 to Sep 2023  
+
+---
+
+### 🧪 QA Projects Testcase
+- [🔗 TestCase And Report Summary.  BRD](https://github.com/sabbir72/Test_case-practice-project-01.git)    
+#### 🔍 API Testing
+- [🔗 RESTful API Test (Postman)](https://github.com/sabbir72/ApiLearnwith_csv_env_collection.git)  
+
+#### 🖥️ Web Automation (Selenium)
+- [🧾 Basic Single Page Test](https://github.com/sabbir72/Product_automation_basic_singlepage.git)  
+- [🌐 Multi Page Automation](https://github.com/sabbir72/AutomationTesting_01.git)   
+
+#### 📱 Android Automation (Appium)
+- [📱 Android UI Test + HTML Report](https://github.com/sabbir72/AndroidAutomation_htmlReport.git)
+
+#### ⚙️ Performance Testing
+- [🔥 JMeter - BlazeDemo Test](https://github.com/sabbir72/PerformanceTest_BlazeDemo.git)  
+  [📈 HTML Report](https://sabbir72.github.io/PerformanceTest_BlazeDemo/)
+
+---
+
+### 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-
+![Appium](https://img.shields.io/badge/Appium-7139A5?style=for-the-badge&logo=appium&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Web Automation Framework](https://github.com/sabbir72/AutomationTesting_01) | Selenium framework with Allure reporting | Java, Selenium, TestNG |
-| [API Test Suite](https://github.com/sabbir72/ApiLearnwith_csv_env_collection) | Postman collection with env configs | Postman, Newman |
-| [Performance Tests](https://github.com/sabbir72/PerformanceTest_BlazeDemo) | JMeter load testing + HTML reports | JMeter, BlazeMeter |
-| [Mobile Automation](https://github.com/sabbir72/AndroidAutomation_htmlReport) | Appium testing for Android apps | Java, Appium |
-
----
-
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir72&theme=github_dark&show_icons=true&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir72&theme=github_dark&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabbir72&theme=monokai&no-frame=true&row=1&column=6">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir72&theme=github_dark&layout=compact&hide_border=true" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir72&show_icons=true&theme=github_dark" alt="stats" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir72&theme=dark" alt="streak" width="45%"/>
 </p>
 
 ---
 
-## 📚 Education
-
-🎓 **B.Sc. in Computer Science & Engineering**  
-Daffodil International University | **CGPA: 3.19/4.00**
-
----
-
-## 💼 Experience
-
-- **Data Annotator** @ Altersense Ltd. *(2024 – Present)*  
-- **Project Delivery Associate** @ Quantigo AI *(2022 – 2023)*
-
----
-
-## 👥 Visitors Count
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sabbir72/count.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sabbir72&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+### 📫 Let's Collaborate!
 
-💬 Open to:
-- QA Automation roles
-- Open-source QA collaborations
-- API / Performance testing challenges
+I'm always open to collaboration and love working on QA projects. Feel free to **reach out** or **connect on LinkedIn**!
 
-<p align="center">
-  <a href="mailto:sabbircse72@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sabbir-ahamed72"><img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+---
+
