@@ -45,7 +45,7 @@ Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional w
 ### 🧪 QA Projects Testcase
 - [🔗 TestCase And Report Summary.  BRD](https://github.com/sabbir72/Test_case-practice-project-01.git)    
 #### 🔍 API Testing
-- [🔗 API Chaining (Postman)](https://github.com/sabbir72/-APi-Chaining-runtime-connection.git)  
+- [🔗 RESTful API Test (Postman)](https://github.com/sabbir72/ApiLearnwith_csv_env_collection.git)  
 - [💬 REST API Tests](https://github.com/sabbir72/RESTAPI_test.git)  
 - [📨 Bulk SMS Load Testing](https://github.com/sabbir72/BULKSMS_LOAD_TEST.git)  
 
