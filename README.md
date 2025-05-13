@@ -49,7 +49,9 @@ Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional w
 
 #### 🖥️ Web Automation (Selenium)
 - [🧾 Basic Single Page Test](https://github.com/sabbir72/Product_automation_basic_singlepage.git)  
-- [🌐 Multi Page Automation](https://github.com/sabbir72/AutomationTesting_01.git)   
+- [🌐 Multi Page Automation-01](https://github.com/sabbir72/AutomationTesting_01.git)
+- [🌐 Multi Page Automation-02](https://github.com/sabbir72/SQA_POM_Browser2025_02.git)   
+
 
 #### 📱 Android Automation (Appium)
 - [📱 Android UI Test + HTML Report](https://github.com/sabbir72/AndroidAutomation_htmlReport.git)
