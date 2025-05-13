@@ -55,7 +55,7 @@ Enthusiastic and detail-oriented Software Quality Assurance (SQA) professional w
 - [📱 Android UI Test + HTML Report](https://github.com/sabbir72/AndroidAutomation_htmlReport.git)
 
 #### ⚙️ Performance Testing
-- [🔥- BlazeDemo Test 01 ](https://github.com/sabbir72/Performance_test2025_used_Blazmeter.git)  
+- [🔥- BlazeMeter Tool use Test 01 ](https://github.com/sabbir72/Performance_test2025_used_Blazmeter.git)  
 - [🔥 JMeter - BlazeDemo Test 02](https://github.com/sabbir72/PerformanceTest_BlazeDemo.git)  [📈 HTML Report](https://sabbir72.github.io/PerformanceTest_BlazeDemo/)
 
 ---
