@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabbir Ahamed</h1>
-<h3 align="center">🚀 Software Quality Assurance Engineer | Automation & API Testing Enthusiast</h3>
+<h3 align="center">🚀 Software Quality Assurance Engineer | Manual & Automation </h3>
 
 <p align="center">
   <a href="mailto:sabbircse72@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
