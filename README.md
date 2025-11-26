@@ -27,15 +27,15 @@ Seeking an opportunity to contribute to a **dynamic QA team**.
 
 ## 💼 Experience
 - **🔹 Altersense Ltd.** — *Jr. SQA Engineer*  
-  📅 May 2025 – Present | Dhaka, Bangladesh  
-  - ERP Software Testing (Inventory, Sales, Accounts, Manufacturing)  
-  - Test Case Writing, Execution, and Bug Reporting  
+  📅 March 2025 – Present | Dhaka, Bangladesh  
+  - ERP Software Testing (Inventory, HR, Accounts, Manufacturing, Production)  
+  - Test Case Writing, Execution, and Bug Reporting , Basic Automation 
   - Worked with **STLC, SDLC, Agile** methodologies  
 
 - **🔹 Altersense Ltd.** — *Data Annotator (ML Team)*  
-  📅 Feb 2024 – Present | Dhaka, Bangladesh  
+  📅 Feb 2024 – feb 2025 | Dhaka, Bangladesh  
   - Annotation Team Lead  
-  - Quality Control & Data Privacy Compliance  
+  - Data Quality Control & Data Privacy Compliance  
 
 - **🔹 Quantigo AI** — *Project Delivery Associate*  
   📅 Jul 2022 – Sep 2023 | Uttara, Dhaka  
@@ -107,3 +107,4 @@ I'm always open to **collaboration** and love working on QA projects.
 
 ---
 ⭐ *Passionate about delivering quality software and continuously improving as a QA professional.*
+
