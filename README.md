@@ -218,7 +218,15 @@ Cross-platform load testing on BlazeDemo with CLI execution.
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sabbir72&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=d97706&icon_color=d97706" height="165"/>
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsabbir72&label=Public%20Repos&query=%24.public_repos&color=1a3d5c&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/sabbir72?style=for-the-badge&label=Followers&color=d97706&labelColor=1a3d5c)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsabbir72&label=Following&query=%24.following&color=1a3d5c&style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sabbir72&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=d97706&icon_color=d97706&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir72&theme=tokyonight&hide_border=true&ring=d97706&fire=d97706" height="165"/>
 </div>
 
@@ -229,6 +237,8 @@ Cross-platform load testing on BlazeDemo with CLI execution.
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sabbir72&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
+
+> ℹ️ These cards pull data live from the GitHub API every time this page is viewed — repo count, followers, streaks, and language stats always reflect the current state automatically, no manual editing needed.
 
 <br>
 
