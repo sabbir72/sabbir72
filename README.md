@@ -1,115 +1,132 @@
-<h1 align="center">Hi 👋, I'm Sabbir Ahamed</h1>
-<h3 align="center">Software Quality Assurance Engineer | Manual • API • Automation Testing</h3>
+<h1 align="center">SABBIR AHAMED</h1>
+<h3 align="center">🧪 SOFTWARE QUALITY ASSURANCE ENGINEER</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sabbir-ahamed72" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sabbircse72@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sabbir-ahamed-sqa.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  Tongi East, Gazipur, Dhaka, Bangladesh &nbsp;|&nbsp; +8801681387906 &nbsp;|&nbsp; sabbircse72@gmail.com
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabbir-ahamed72">linkedin.com/in/sabbir-ahamed72</a> &nbsp;|&nbsp;
+  <a href="https://github.com/sabbir72">github.com/sabbir72</a> &nbsp;|&nbsp;
+  <a href="https://sabbir-ahamed-sqa.vercel.app">Portfolio</a>
 </p>
 
----
+<hr>
 
-### 🚀 About Me
+## 📋 Professional Summary
 
-- 🔬 **2+ years** of hands-on experience in **Manual Testing, API Testing & Web Application Testing**
-- 🏦 Currently working as **Jr. SQA Engineer at Altersense Ltd**, testing ERP-based systems (Inventory, Sales, Purchase, HR, Accounts, Manufacturing) and **fintech / banking modules** (Import LC, Credit Limit, Loan Amortization)
-- 🧪 Skilled in designing test cases, executing functional/regression/UAT testing, validating REST APIs, and defect reporting
-- 🤖 Currently expanding into **UI Automation with Playwright (Python)**, **Mobile Testing**, and **CI/CD with GitHub Actions**
-- 📍 Based in Tongi East, Gazipur, Dhaka, Bangladesh
+Software Quality Assurance Engineer with 2+ years of hands-on experience in Manual Testing, API Testing, and Web Application Testing. Experienced in designing comprehensive test cases, executing functional, regression, and exploratory testing, validating REST APIs, and reporting defects with a strong focus on software quality and user experience. Currently expanding expertise in UI Automation using Playwright (Python), Mobile Testing, and CI/CD with GitHub Actions.
 
----
+<hr>
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills & Core Competencies
 
-**Manual Testing**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![STLC](https://img.shields.io/badge/STLC-informational?style=flat-square)
-![SDLC](https://img.shields.io/badge/SDLC-informational?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square)
+| Category | Skills |
+|---|---|
+| **Manual Testing** | Requirement Analysis, Test Planning & Design, Test Case Writing, Test Environment Setup, Test Case Execution, Bug Reporting & Lifecycle |
+| **Automation Testing** | Cypress (Basic), Playwright (Basic), Selenium WebDriver, TestNG, Page Object Model (POM), Allure Reporting |
+| **API Testing Tools** | Postman, Insomnia, Newman CLI, API Test Automation, Dynamic Assertions |
+| **Performance Testing** | JMeter, BlazeMeter, K6 (Basic), Load & Stress Testing |
+| **Tools & Databases** | Jira, GitHub / Git, CI/CD (GitHub Actions), MySQL (Basic), Excel |
+| **Core Concepts** | STLC, SDLC, Agile / Scrum Ceremonies, ERP Systems, SaaS & Fintech Manual Testing |
 
-**Automation Testing**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-orange?style=flat-square)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<hr>
 
-**API Testing**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white)
-![Newman](https://img.shields.io/badge/Newman%20CLI-FF6C37?style=flat-square)
+## 💼 Professional Experience
 
-**Performance Testing**
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
-![BlazeMeter](https://img.shields.io/badge/BlazeMeter-FF5900?style=flat-square)
-![K6](https://img.shields.io/badge/K6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+### Jr. SQA Engineer — Altersense Ltd
+*Tejgaon, Dhaka, Bangladesh &nbsp;|&nbsp; 03/2025 – Present*
+- Performing manual testing on ERP-based software including Inventory, Sales, Purchase, HR, Accounts, and Manufacturing commercial modules.
+- Writing, reviewing, and executing test cases based on business requirements and user stories.
+- Identifying, reporting, and tracking defects using Jira and collaborating with developers to ensure timely resolution.
+- Conducting functional, regression, and user acceptance testing (UAT).
+- Performing API testing using Postman to validate backend functionality and data accuracy.
+- Verifying data accuracy using basic SQL queries in the database.
+- Actively participating in Agile ceremonies (daily standups, sprint planning, retrospectives) and following STLC & SDLC processes to ensure software quality.
 
-**Tools & Databases**
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Allure Report](https://img.shields.io/badge/Allure%20Report-FF5252?style=flat-square)
+### Data Annotator Lead (ML Team) — Altersense Ltd
+*Tejgaon, Dhaka, Bangladesh &nbsp;|&nbsp; 02/2024 – 02/2025*
+- Led the annotation team to prepare high-quality structured training datasets for machine learning models.
+- Managed Data Quality Control pipelines to ensure minimal error rates and high accuracy in output assets.
+- Developed custom-made internal scripts and tools to speed up the labeling and verification workflows.
+- Fostered seamless team collaboration across annotators, ML developers, and product stakeholders.
+- Enforced strict Data Privacy Compliance policies throughout the ML lifecycle.
 
----
+### Project Delivery Associate (Production) — Quantigo AI
+*Uttara, Dhaka, Bangladesh &nbsp;|&nbsp; 07/2022 – 09/2023*
+- Supervised and performed accurate multi-format data labeling for advanced AI and vision models.
+- Maintained extreme Quality Control procedures on high-volume deliverables.
+- Coordinated team collaborations and task assignments to meet strict project deadlines.
+- Ensured strict compliance with client data privacy and security requirements.
 
-### 💼 Experience
+<hr>
 
-```
-Jr. SQA Engineer — Altersense Ltd                          03/2025 – Present
-Data Annotator Lead (ML Team) — Altersense Ltd             02/2024 – 02/2025
-Project Delivery Associate (Production) — Quantigo AI      07/2022 – 09/2023
-```
+## 🌟 Featured SQA Automation & Testing Projects
 
----
+### [SauceDemo Playwright UI Automation](https://github.com/sabbir72/saucedemo) `Automation`
+Built an end-to-end UI automation framework using Playwright (Python). Automated Login, Product Selection, Cart Validation, Checkout, and Logout scenarios. Integrated Allure Report to generate rich HTML reports with execution history, screenshots, logs, and test results. Configured GitHub Actions for automated test execution and CI/CD pipeline. Implemented reusable Page Object Model (POM), fixtures, and maintainable test architecture.
+**Tech Used:** Playwright • Python • POM Architecture • Allure Reports • GitHub Actions • CI/CD
 
-### 🌟 Featured Projects
+### [Web Application Automation – Bijoy Project 2025](https://github.com/sabbir72/Bijoy_Project_Test) `Automation`
+Automated post-login flows and functional testing of a web application using Python and Pytest framework. Implemented structured test scripts, reusable fixtures, and conftest.py configuration management.
+**Tech Used:** Python • Pytest • Selenium • Fixtures • HTML Reports
 
-| Project | Category | Tech |
+### [Selenium Automation with Allure – WebHishabee](https://github.com/sabbir72/SQA_Allur_WebHishabeeAutomation_AllureReport) `Automation`
+Automated UI testing of WebHishabee using Java, Selenium WebDriver, TestNG, and Allure reporting. Implemented structured Page Object Model (POM) pattern for scalable multi-page automation.
+**Tech Used:** Java • Selenium WebDriver • TestNG • Allure • Maven • POM
+
+### [Java Selenium Single Page Automation – Project 01](https://github.com/sabbir72/Product_automation_basic_singlepage) `Automation`
+Automated login, product navigation, cart addition, alert handling, and session verification on a demo e-commerce site using Java, Selenium WebDriver, TestNG, and WebDriverManager.
+**Tech Used:** Java • Selenium WebDriver • TestNG • WebDriverManager • Browser Automation
+
+### [CRUD API Test with Dynamic Assertion](https://github.com/sabbir72/API_Assesment2) `API`
+Automated API testing with Postman & Newman (CLI mode) including dynamic JavaScript assertions execution, environment variable chaining, and HTML report generation.
+**Tech Used:** Postman • Newman CLI • Dynamic Assertions • REST API • JavaScript
+
+### [Restful Booker API Test Report](https://github.com/sabbir72/ApiLearnwith_csv_env_collection) `API`
+Automated API testing using Postman & Newman (htmlextra reporter) with 50 requests over 5 iterations. Average response 356 ms, 15 failures identified (response time & DELETE endpoint) with performance optimization recommendations.
+**Tech Used:** Postman • Newman • htmlextra • Restful Booker • API Automation
+
+### [Postman API Testing CI/CD Automation](https://github.com/sabbir72/postman-api-testing-demo) `API`
+Implemented automated API testing using Postman & Newman integrated with GitHub Actions. Tests execute on every code push, HTML reports are generated, and test artifacts are archived automatically.
+**Tech Used:** Postman • Newman • GitHub Actions • CI/CD • Automated Reports
+
+### [BlazeMeter Use For Performance Testing](https://github.com/sabbir72/Performance_test2025_used_Blazmeter) `Performance`
+Performed load testing with 50 virtual users for 9 minutes using JMeter/BlazeMeter. System handled traffic efficiently with average response 723 ms, 90% responses within 1787 ms, 0% error rate, and stable CPU/memory usage.
+**Tech Used:** JMeter • BlazeMeter • Load Testing • Performance • Stress Testing
+
+### [SQA_jmeter_u100_r2_l1_2025 Performance Suite](https://github.com/sabbir72/SQA_jmeter_u100_r2_l1_2025) `Performance`
+Executed BlazeMeter/JMeter performance tests on BlazeDemo site (Windows), generated HTML reports, and pushed project to GitHub. Mastered load testing workflow, CLI execution, and cross-platform load testing.
+**Tech Used:** JMeter • BlazeMeter • BlazeDemo • CLI Execution • HTML Reports
+
+### [QA Functional Testing – Web Application (6 Modules)](https://github.com/sabbir72/Test_case-practice-project-01) `Manual`
+Executed 35/38 test cases across Hosting, Domain, Account, Login, Blog and Support modules. No critical errors; minor issues noted. Full test details, execution summary, and bug report available on request.
+**Tech Used:** Manual Testing • Test Case Design • Jira • Bug Reporting • UAT • STLC
+
+### [QA Test Cases – bKash Add Money & OrangeHRM Demo](https://docs.google.com/spreadsheets/d/154K1dZkp9sF0jpIdyg52Sr2S5glKd7P8_ZQu9Wch_ZY/edit?gid=0#gid=0) `Manual`
+Created and executed detailed manual test cases for bKash Add Money happy path and OrangeHRM signup-to-leave flows. Defects logged and execution documented with full steps to reproduce.
+**Tech Used:** Manual Testing • bKash FinTech • OrangeHRM • Test Cases • Jira • Bug Tracking
+
+<hr>
+
+## 🎓 Education & Certifications
+
+| Program | Institution | Duration |
 |---|---|---|
-| [SauceDemo Playwright UI Automation](https://github.com/sabbir72/saucedemo) | Automation | Playwright • Python • POM • Allure • CI/CD |
-| [Bijoy Project 2025 Web Automation](https://github.com/sabbir72/Bijoy_Project_Test) | Automation | Python • Pytest • Selenium |
-| [WebHishabee Selenium + Allure](https://github.com/sabbir72/SQA_Allur_WebHishabeeAutomation_AllureReport) | Automation | Java • Selenium • TestNG • Allure |
-| [Single Page E-commerce Automation](https://github.com/sabbir72/Product_automation_basic_singlepage) | Automation | Java • Selenium • TestNG |
-| [CRUD API Test with Dynamic Assertions](https://github.com/sabbir72/API_Assesment2) | API | Postman • Newman • JavaScript |
-| [Restful Booker API Test Report](https://github.com/sabbir72/ApiLearnwith_csv_env_collection) | API | Postman • Newman • htmlextra |
-| [Postman API Testing CI/CD](https://github.com/sabbir72/postman-api-testing-demo) | API | Postman • Newman • GitHub Actions |
-| [BlazeMeter Performance Testing](https://github.com/sabbir72/Performance_test2025_used_Blazmeter) | Performance | JMeter • BlazeMeter |
-| [JMeter Performance Suite](https://github.com/sabbir72/SQA_jmeter_u100_r2_l1_2025) | Performance | JMeter • BlazeMeter |
-| [Web App Functional Testing (6 Modules)](https://github.com/sabbir72/Test_case-practice-project-01) | Manual | Test Design • Jira • UAT |
+| SQA Course (Professional SQA Training) | IT Training BD | 07/2024 – 01/2025 |
+| BSc in Computer Science and Engineering (CGPA: 3.19/4.00) | Daffodil International University (DIU) | 01/2018 – 01/2022 |
 
----
+*SQA Course: Hands-on practice in manual SQA methodologies, bug reporting, test planning, API testing, and automation fundamentals.*
 
-### 🎓 Education & Certification
+<hr>
 
-- 🎓 **BSc in Computer Science and Engineering** — Daffodil International University (2018 – 2022)
-- 📜 **Professional SQA Course** — IT Training BD (07/2024 – 01/2025)
+## 📇 Professional References
 
----
+**Etu Mahmuda Era** — Senior SQA Engineer, I-Farmer
+📧 etumahmuda@gmail.com &nbsp;|&nbsp; 📞 01956891550
 
-### 📊 GitHub Stats
+<hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabbir72&show_icons=true&theme=default&count_private=true" alt="Sabbir's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir72&theme=default" alt="Sabbir's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir72&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:sabbircse72@gmail.com">📧 sabbircse72@gmail.com</a> •
-  <a href="tel:+8801681387906">📞 +880 1681-387906</a> •
-  <a href="https://www.linkedin.com/in/sabbir-ahamed72">💼 LinkedIn</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbir72&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir72&theme=default" height="165"/>
 </p>
